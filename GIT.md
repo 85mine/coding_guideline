@@ -70,6 +70,13 @@ git commit
 ```
 Tiến hành merge tới master sau khi fixbug
 
+## Xóa task không release
+
+```
+git rebase -i HEAD~x # Xóa commit không release đi
+git push -f
+```
+
 ```
 git checkout master
 git merge --no-ff release/v1.5 # --no-ff là bắt buộc.
