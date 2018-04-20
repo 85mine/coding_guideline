@@ -68,7 +68,6 @@ Gửi pull request đến reviewer
 git add .
 git commit
 ```
-Tiến hành merge tới master sau khi fixbug
 
 ## Xóa task không release
 
@@ -76,6 +75,7 @@ Tiến hành merge tới master sau khi fixbug
 git rebase -i HEAD~x # Xóa commit không release đi
 git push -f
 ```
+Tiến hành merge tới master sau khi fixbug
 
 ```
 git checkout master
