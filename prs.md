@@ -3,7 +3,7 @@ Hướng dẫn sử dụng tool support coding chuẩn PSR
 
 ### Cài đặt
 
-- Copy nội dung từ file pre-commit.sh.windows/linux tương ứng với
+- Copy nội dung từ file ```pre-commit.sh.windows/linux``` tương ứng với môi trường ra file ```pre-commit.sh```
 - Chạy ```composer install``` để cài đặt.
 
 # Tiến hành commit
