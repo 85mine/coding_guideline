@@ -14,7 +14,7 @@ git commit
 Sau khi commit, hệ thống sẽ bắn lỗi ra console nếu có + kèm sửa lỗi.
 Tiến hành fix lỗi và commit thêm 1 commit với nội dung :
 ```
-[PRS-FIX] 20180503 //20180503 là ngày hiện tại
+[PSR-FIX] 20180503 //20180503 là ngày hiện tại
 ```
 # Hướng dẫn sửa lỗi PSR
 
